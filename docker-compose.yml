@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pocshiftii:
+    image: ${DOCKER_REGISTRY}pocshiftii
+    build:
+      context: .
+      dockerfile: POCShiftII/Dockerfile

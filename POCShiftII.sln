@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCShiftII", "POCShiftII\POCShiftII.csproj", "{0946D36D-E1A8-45DA-B0B3-13F460F746A5}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C3FC148E-158D-4E0D-8374-B783DCEB7BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0946D36D-E1A8-45DA-B0B3-13F460F746A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0946D36D-E1A8-45DA-B0B3-13F460F746A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0946D36D-E1A8-45DA-B0B3-13F460F746A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0946D36D-E1A8-45DA-B0B3-13F460F746A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FC148E-158D-4E0D-8374-B783DCEB7BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FC148E-158D-4E0D-8374-B783DCEB7BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FC148E-158D-4E0D-8374-B783DCEB7BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FC148E-158D-4E0D-8374-B783DCEB7BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAF9B18-8030-425F-A405-EE04248A0FFA}
+	EndGlobalSection
+EndGlobal
